@@ -43,7 +43,7 @@ PLEASE FOLLOW THE FOLLOWING TEMPLATE FOR CONTRIBUTING.
 * Components along with sources for those components.
 * Links to pinouts for components.
 * Uses(along with examples)
-* Sources(Please list all possible sources for proper attribution.
+* Sources(Please list all possible sources for proper attribution.)
 * Your name(GithubID/other social media links.)
 
 All files should use markdown(.md) only.
