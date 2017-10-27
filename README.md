@@ -7,9 +7,9 @@ This repository is a collection of circuit diagrams of different types.
 Kindly feel free to add more.
 
 ## Contents
-* Analog Circuits(#Analog-Circuits)
-* Digital Circuits(#Digital-Circuits)
-* Mixed Signal Circuits(#Mixed-Signal-Circuits)
+* [Analog Circuits](#Analog-Circuits)
+* [Digital Circuits](#Digital-Circuits)
+* [Mixed Signal Circuits](#Mixed-Signal-Circuits)
 
 
 <a name="Analog-Circuits"></a>
