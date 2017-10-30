@@ -3,4 +3,5 @@ Please add any analog circuit in this folder in a separate .md file after follow
 
 ## Operational Amplifiers
 
-Contains applications and configurations of operational amplifiers.
+Contains applications and configurations of operational amplifiers, including:
+- Inverting Amplifiers
