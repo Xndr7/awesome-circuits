@@ -13,10 +13,10 @@ Kindly feel free to add more.
 
 
 <a name="Analog-Circuits"></a>
-## Analog Circuits
+## [Analog Circuits](/Analog-Circuits)
 
 
-### Operational Amplifiers
+### [Operational Amplifiers](/Analog-Circuits/Operational-Amplifiers)
 This folder contains many applications and configurations of operational amplifiers.
 
 
